@@ -1,6 +1,8 @@
 # jupy
 IPython default settings for jupyter notebook
 
+## *Superseded by https://github.com/cristobal-sifon/ipystartup*
+
 Clone this repository into somewhere convenient and `cd` into that directory. For me this might be something like
 
 ```
